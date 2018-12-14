@@ -32,8 +32,9 @@ export class ListPage implements OnInit {
 
   ngOnInit() {
   }
-  // add back when alpha.4 is out
-  // navigate(item) {
-  //   this.router.navigate(['/list', JSON.stringify(item)]);
-  // }
+
+// API Call
+// URL: http://api.brewerydb.com/v2/{endpoint}/?key=abcdef
+// Key: d8ad31229f6bd38035d1acfec5c5943e
+// example: http://api.brewerydb.com/v2/categories/?key=d8ad31229f6bd38035d1acfec5c5943e
 }

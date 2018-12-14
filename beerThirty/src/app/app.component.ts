@@ -16,13 +16,13 @@ export class AppComponent {
       icon: 'home'
     },
     {
-      title: 'Beer List',
+      title: 'Beer List - Start Here',
       url: '/list',
       icon: 'list'
     },
     {
       title: 'Selection Details',
-      url: '/selection-page',
+      url: '/selectionPage',
       icon: 'beer'
     }
   ];
