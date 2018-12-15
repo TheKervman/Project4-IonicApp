@@ -21,7 +21,7 @@ export class AppComponent {
       icon: 'list'
     },
     {
-      title: 'Selection Details',
+      title: 'Style Selection',
       url: '/selectionPage',
       icon: 'beer'
     }
